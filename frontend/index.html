@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cliente Web</title>
+</head>
+<body>
+    <h1>Cliente Web para Consultas</h1>
+    
+    <label for="caracteresInput">Caracteres:</label>
+    <input type="text" id="caracteresInput" placeholder="Ingrese caracteres">
+
+    <label for="longitudInput">Longitud:</label>
+    <input type="number" id="longitudInput" placeholder="Ingrese longitud">
+
+    <button onclick="realizarConsulta()">Realizar Consulta</button>
+
+    <div id="resultado"></div>
+
+    <script>
+        function realizarConsulta() {
+            const caracteres = document.getElementById('caracteresInput').value;
+            const longitud = document.getElementById('longitudInput').value;
+
+            console.log(caracteres.split(','));
+            console.log(longitud);
+
+            fetch('http://localhost:3050/consultar', {
+                method: 'POST',
+                mode: 'cors',  // Añadido para habilitar CORS
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    caracteres: caracteres.split(''),  // Convertir a lista de caracteres
+                    longitud: parseInt(longitud),
+                }),
+            })
+
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('resultado').innerHTML = JSON.stringify(data, null, 2);
+            })
+            .catch(error => {
+                console.error('Error al realizar la consulta:', error);
+            });
+        }
+    </script>
+</body>
+</html>

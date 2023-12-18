@@ -1,0 +1,88 @@
+:- use_module(library(http/thread_httpd)).
+:- use_module(library(http/http_dispatch)).
+:- use_module(library(http/http_json)).
+% Definir un diccionario de palabras
+diccionario(['hola', 'como', 'estas', 'perro', 'gato', 'casa', 'jugando', 'prolog', 'web', 'statica', 'programacion', 'desarrollo', 'javascript', 'python', 'inteligencia', 'artificial', 'ciencia', 'datos', 'tecnologia', 'informatica', 'computadora', 'algoritmo', 'estructura', 'diseño', 'base', 'conocimiento', 'base', 'datos', 'analisis', 'software', 'hardware', 'redes', 'programacion', 'desarrollo', 'javascript', 'python', 'inteligencia', 'artificial', 'ciencia', 'datos', 'tecnologia', 'informatica', 'computadora', 'algoritmo', 'estructura', 'diseño', 'base', 'conocimiento', 'base', 'datos', 'analisis', 'software', 'hardware', 'redes']).
+
+% Manejar la ruta /consultar
+:- http_handler(root(consultar), consultar_handler, []).
+
+consultar_handler(Request) :-
+    write('Recibida solicitud: '), write(Request), nl,
+    http_read_json_dict(Request, JSON),
+    write('JSON recibido: '), write(JSON), nl,
+    % Extraer parámetros de la solicitud
+    ( get_dict(longitud, JSON, Longitud), integer(Longitud) ->
+        % Lógica para seleccionar una palabra por longitud
+        seleccionar_palabra(Longitud, _, _, Palabra, Puntuacion),
+        % Responder con la palabra seleccionada y la puntuación
+        Reply = json{'status': 'success', 'word': Palabra, 'score': Puntuacion}
+    ; % Otros casos pueden ser manejados de manera similar
+        Reply = json{'status': 'error', 'message': 'Parámetros inválidos'}
+    ),
+    % Responder a la solicitud
+    reply_json_dict(Reply).
+
+
+% Función para seleccionar una palabra que cumpla con las condiciones dadas
+seleccionar_palabra(Longitud, CaracteresConfirmados, Estructura, PalabraSeleccionada, Puntuacion) :-
+    diccionario(Diccionario),
+    seleccionar_palabra_aux(Diccionario, Longitud, CaracteresConfirmados, Estructura, '', PalabraSeleccionada, 0, Puntuacion).
+
+% Caso base: Seleccionar la mejor palabra
+seleccionar_palabra_aux([], _, _, _, PalabraSeleccionada, PalabraSeleccionada, Puntuacion, Puntuacion).
+seleccionar_palabra_aux([Palabra|Resto], Longitud, CaracteresConfirmados, Estructura, PalabraActual, PalabraSeleccionada, PuntuacionActual, PuntuacionFinal) :-
+    (atom_length(Palabra, LongitudPalabra), LongitudPalabra == Longitud),
+    (   cumple_caracteres_confirmados(Palabra, CaracteresConfirmados), % Verificar caracteres confirmados
+        cumple_estructura(Palabra, Estructura), % Verificar estructura
+        seleccionar_mejor_palabra(Palabra, PalabraActual, NuevaMejor, Longitud, LongitudPalabra, PuntuacionPalabra),
+        (   NuevaMejor \= PalabraActual,
+            NuevaPuntuacion is PuntuacionActual + PuntuacionPalabra,
+            imprimir_barra_separadora, % Imprimir barra separadora
+            seleccionar_palabra_aux(Resto, Longitud, CaracteresConfirmados, Estructura, NuevaMejor, PalabraSeleccionada, NuevaPuntuacion, PuntuacionFinal)
+        ;   seleccionar_palabra_aux(Resto, Longitud, CaracteresConfirmados, Estructura, PalabraActual, PalabraSeleccionada, PuntuacionActual, PuntuacionFinal)
+        )
+    ;   seleccionar_palabra_aux(Resto, Longitud, CaracteresConfirmados, Estructura, PalabraActual, PalabraSeleccionada, PuntuacionActual, PuntuacionFinal)
+    ).
+
+% Seleccionar la palabra con más caracteres
+seleccionar_mejor_palabra(Palabra, PalabraActual, NuevaMejor, Longitud, LongitudPalabra, PuntuacionPalabra) :-
+    (var(PalabraActual) ; atom_length(Palabra, Longitud), Longitud == LongitudPalabra),
+    atom_length(PalabraActual, LongitudActual),
+    (   LongitudPalabra == Longitud,
+        LongitudPalabra > LongitudActual ->
+            NuevaMejor = Palabra,
+            PuntuacionPalabra is Longitud + 1 % Puntuación por letra confirmada
+    ;   NuevaMejor = PalabraActual,
+        PuntuacionPalabra is 0
+    ),
+    imprimir_barra_separadora. % Imprimir barra separadora
+    
+% Función auxiliar para verificar si una palabra contiene todos los caracteres confirmados
+cumple_caracteres_confirmados(Palabra, CaracteresConfirmados) :-
+    (atom_length(Palabra, Longitud), Longitud > 0),
+    atom_chars(Palabra, ListaCaracteres),
+    forall(
+        (member(Cabeza, CaracteresConfirmados), memberchk(Cabeza, ListaCaracteres)),
+        true
+    ).
+
+% Función auxiliar para verificar la estructura de letras y posiciones
+cumple_estructura(Palabra, Estructura) :-
+    (atom_length(Palabra, Longitud), Longitud > 0),
+    forall(
+        (member((Letra, Posicion), Estructura), nth1(Posicion, Palabra, Letra)),
+        true
+    ).
+
+% Imprimir barra separadora
+imprimir_barra_separadora :-
+    write('------------------------------------------------------'), nl.
+
+% Iniciar el servidor
+:- initialization(main).
+
+main :-
+    http_server(http_dispatch, [port(3050)]).
+
+:- debug.

@@ -1,0 +1,1099 @@
+Cors supuestamente enabled
+activando CORS
+activando CORS
+activando CORS
+activando CORS
+activando CORS
+activando CORS
+DEBUG: JSON recibido:
+_8994{caracteres:[a,e,i,o,u],longitud:4}
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hola,[h,o,l,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hola,[o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[como,[c,o,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[como,[o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estas,[e,s,t,a,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estas,[e,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[perro,[p,e,r,r,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[perro,[e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[gato,[g,a,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[gato,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[casa,[c,a,s,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[casa,[a,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[jugando,[j,u,g,a,n,d,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [u,a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[jugando,[u,a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[prolog,[p,r,o,l,o,g]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[prolog,[o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[web,[w,e,b]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[web,[e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[statica,[s,t,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[statica,[a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[programacion,[p,r,o,g,r,a,m,a,c,i,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,a,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[programacion,[o,a,a,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[desarrollo,[d,e,s,a,r,r,o,l,l,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a,o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[desarrollo,[e,a,o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[javascript,[j,a,v,a,s,c,r,i,p,t]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[javascript,[a,a,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[python,[p,y,t,h,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[python,[o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[inteligencia,[i,n,t,e,l,i,g,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[inteligencia,[i,e,i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[artificial,[a,r,t,i,f,i,c,i,a,l]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,i,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[artificial,[a,i,i,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[ciencia,[c,i,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[ciencia,[i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[tecnologia,[t,e,c,n,o,l,o,g,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o,o,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[tecnologia,[e,o,o,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[informatica,[i,n,f,o,r,m,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,o,a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[informatica,[i,o,a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[computadora,[c,o,m,p,u,t,a,d,o,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,u,a,o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[computadora,[o,u,a,o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[algoritmo,[a,l,g,o,r,i,t,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[algoritmo,[a,o,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estructura,[e,s,t,r,u,c,t,u,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,u,u,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estructura,[e,u,u,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[diseno,[d,i,s,e,n,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[diseno,[i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[conocimiento,[c,o,n,o,c,i,m,i,e,n,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o,i,i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[conocimiento,[o,o,i,i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[analisis,[a,n,a,l,i,s,i,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[analisis,[a,a,i,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[software,[s,o,f,t,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[software,[o,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hardware,[h,a,r,d,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hardware,[a,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[redes,[r,e,d,e,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[redes,[e,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[programacion,[p,r,o,g,r,a,m,a,c,i,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,a,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[programacion,[o,a,a,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[desarrollo,[d,e,s,a,r,r,o,l,l,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a,o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[desarrollo,[e,a,o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[javascript,[j,a,v,a,s,c,r,i,p,t]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[javascript,[a,a,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[python,[p,y,t,h,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[python,[o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[inteligencia,[i,n,t,e,l,i,g,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[inteligencia,[i,e,i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[artificial,[a,r,t,i,f,i,c,i,a,l]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,i,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[artificial,[a,i,i,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[ciencia,[c,i,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[ciencia,[i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[tecnologia,[t,e,c,n,o,l,o,g,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o,o,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[tecnologia,[e,o,o,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[informatica,[i,n,f,o,r,m,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,o,a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[informatica,[i,o,a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[computadora,[c,o,m,p,u,t,a,d,o,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,u,a,o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[computadora,[o,u,a,o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[algoritmo,[a,l,g,o,r,i,t,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[algoritmo,[a,o,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estructura,[e,s,t,r,u,c,t,u,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,u,u,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estructura,[e,u,u,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[diseno,[d,i,s,e,n,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[diseno,[i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[conocimiento,[c,o,n,o,c,i,m,i,e,n,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o,i,i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[conocimiento,[o,o,i,i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[analisis,[a,n,a,l,i,s,i,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[analisis,[a,a,i,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[software,[s,o,f,t,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[software,[o,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hardware,[h,a,r,d,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hardware,[a,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[redes,[r,e,d,e,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[redes,[e,e]]
+--------------------------
+DEBUG: Palabras filtradas:
+[algoritmo,analisis,artificial,base,casa,ciencia,como,computadora,conocimiento,datos,desarrollo,diseno,estas,estructura,gato,hardware,hola,informatica,inteligencia,javascript,jugando,perro,programacion,prolog,python,redes,software,statica,tecnologia,web]
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[algoritmo,9,4]
+Resultado filtrado: - _23344
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[analisis,8,4]
+Resultado filtrado: - _23344
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[artificial,10,4]
+Resultado filtrado: - _23344
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[base,4,4]
+Resultado filtrado: - _23484
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[casa,4,4]
+Resultado filtrado: - _23534
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[ciencia,7,4]
+Resultado filtrado: - _23534
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[como,4,4]
+Resultado filtrado: - _23628
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[computadora,11,4]
+Resultado filtrado: - _23628
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[conocimiento,12,4]
+Resultado filtrado: - _23628
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[datos,5,4]
+Resultado filtrado: - _23628
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[desarrollo,10,4]
+Resultado filtrado: - _23628
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[diseno,6,4]
+Resultado filtrado: - _23628
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[estas,5,4]
+Resultado filtrado: - _23628
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[estructura,10,4]
+Resultado filtrado: - _23628
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[gato,4,4]
+Resultado filtrado: - _23986
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[hardware,8,4]
+Resultado filtrado: - _23986
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[hola,4,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[informatica,11,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[inteligencia,12,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[javascript,10,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[jugando,7,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[perro,5,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[programacion,12,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[prolog,6,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[python,6,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[redes,5,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[software,8,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[statica,7,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[tecnologia,10,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[web,3,4]
+Resultado filtrado: - _24080
+--------------------------
+DEBUG: JSON recibido:
+_6288{caracteres:[a,e,i,o,u],longitud:4}
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hola,[h,o,l,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hola,[o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[como,[c,o,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[como,[o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estas,[e,s,t,a,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estas,[e,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[perro,[p,e,r,r,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[perro,[e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[gato,[g,a,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[gato,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[casa,[c,a,s,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[casa,[a,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[jugando,[j,u,g,a,n,d,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [u,a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[jugando,[u,a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[prolog,[p,r,o,l,o,g]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[prolog,[o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[web,[w,e,b]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[web,[e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[statica,[s,t,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[statica,[a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[programacion,[p,r,o,g,r,a,m,a,c,i,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,a,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[programacion,[o,a,a,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[desarrollo,[d,e,s,a,r,r,o,l,l,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a,o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[desarrollo,[e,a,o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[javascript,[j,a,v,a,s,c,r,i,p,t]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[javascript,[a,a,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[python,[p,y,t,h,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[python,[o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[inteligencia,[i,n,t,e,l,i,g,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[inteligencia,[i,e,i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[artificial,[a,r,t,i,f,i,c,i,a,l]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,i,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[artificial,[a,i,i,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[ciencia,[c,i,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[ciencia,[i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[tecnologia,[t,e,c,n,o,l,o,g,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o,o,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[tecnologia,[e,o,o,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[informatica,[i,n,f,o,r,m,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,o,a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[informatica,[i,o,a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[computadora,[c,o,m,p,u,t,a,d,o,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,u,a,o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[computadora,[o,u,a,o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[algoritmo,[a,l,g,o,r,i,t,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[algoritmo,[a,o,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estructura,[e,s,t,r,u,c,t,u,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,u,u,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estructura,[e,u,u,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[diseno,[d,i,s,e,n,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[diseno,[i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[conocimiento,[c,o,n,o,c,i,m,i,e,n,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o,i,i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[conocimiento,[o,o,i,i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[analisis,[a,n,a,l,i,s,i,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[analisis,[a,a,i,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[software,[s,o,f,t,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[software,[o,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hardware,[h,a,r,d,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hardware,[a,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[redes,[r,e,d,e,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[redes,[e,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[programacion,[p,r,o,g,r,a,m,a,c,i,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,a,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[programacion,[o,a,a,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[desarrollo,[d,e,s,a,r,r,o,l,l,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a,o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[desarrollo,[e,a,o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[javascript,[j,a,v,a,s,c,r,i,p,t]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[javascript,[a,a,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[python,[p,y,t,h,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[python,[o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[inteligencia,[i,n,t,e,l,i,g,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[inteligencia,[i,e,i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[artificial,[a,r,t,i,f,i,c,i,a,l]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,i,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[artificial,[a,i,i,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[ciencia,[c,i,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[ciencia,[i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[tecnologia,[t,e,c,n,o,l,o,g,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o,o,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[tecnologia,[e,o,o,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[informatica,[i,n,f,o,r,m,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,o,a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[informatica,[i,o,a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[computadora,[c,o,m,p,u,t,a,d,o,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,u,a,o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[computadora,[o,u,a,o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[algoritmo,[a,l,g,o,r,i,t,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[algoritmo,[a,o,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estructura,[e,s,t,r,u,c,t,u,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,u,u,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estructura,[e,u,u,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[diseno,[d,i,s,e,n,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[diseno,[i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[conocimiento,[c,o,n,o,c,i,m,i,e,n,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o,i,i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[conocimiento,[o,o,i,i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[analisis,[a,n,a,l,i,s,i,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[analisis,[a,a,i,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[software,[s,o,f,t,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[software,[o,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hardware,[h,a,r,d,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hardware,[a,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[redes,[r,e,d,e,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[redes,[e,e]]
+--------------------------
+DEBUG: Palabras filtradas:
+[algoritmo,analisis,artificial,base,casa,ciencia,como,computadora,conocimiento,datos,desarrollo,diseno,estas,estructura,gato,hardware,hola,informatica,inteligencia,javascript,jugando,perro,programacion,prolog,python,redes,software,statica,tecnologia,web]
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[algoritmo,9,4]
+Resultado filtrado: - _5804
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[analisis,8,4]
+Resultado filtrado: - _5804
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[artificial,10,4]
+Resultado filtrado: - _5804
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[base,4,4]
+Resultado filtrado: - _5944
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[casa,4,4]
+Resultado filtrado: - _5994
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[ciencia,7,4]
+Resultado filtrado: - _5994
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[como,4,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[computadora,11,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[conocimiento,12,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[datos,5,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[desarrollo,10,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[diseno,6,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[estas,5,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[estructura,10,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[gato,4,4]
+Resultado filtrado: - _6446
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[hardware,8,4]
+Resultado filtrado: - _6446
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[hola,4,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[informatica,11,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[inteligencia,12,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[javascript,10,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[jugando,7,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[perro,5,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[programacion,12,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[prolog,6,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[python,6,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[redes,5,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[software,8,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[statica,7,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[tecnologia,10,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[web,3,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: JSON recibido:
+_6288{caracteres:[a,e,i,o,u],longitud:4}
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hola,[h,o,l,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hola,[o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[como,[c,o,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[como,[o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estas,[e,s,t,a,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estas,[e,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[perro,[p,e,r,r,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[perro,[e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[gato,[g,a,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[gato,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[casa,[c,a,s,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[casa,[a,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[jugando,[j,u,g,a,n,d,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [u,a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[jugando,[u,a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[prolog,[p,r,o,l,o,g]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[prolog,[o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[web,[w,e,b]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[web,[e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[statica,[s,t,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[statica,[a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[programacion,[p,r,o,g,r,a,m,a,c,i,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,a,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[programacion,[o,a,a,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[desarrollo,[d,e,s,a,r,r,o,l,l,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a,o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[desarrollo,[e,a,o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[javascript,[j,a,v,a,s,c,r,i,p,t]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[javascript,[a,a,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[python,[p,y,t,h,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[python,[o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[inteligencia,[i,n,t,e,l,i,g,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[inteligencia,[i,e,i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[artificial,[a,r,t,i,f,i,c,i,a,l]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,i,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[artificial,[a,i,i,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[ciencia,[c,i,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[ciencia,[i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[tecnologia,[t,e,c,n,o,l,o,g,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o,o,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[tecnologia,[e,o,o,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[informatica,[i,n,f,o,r,m,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,o,a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[informatica,[i,o,a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[computadora,[c,o,m,p,u,t,a,d,o,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,u,a,o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[computadora,[o,u,a,o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[algoritmo,[a,l,g,o,r,i,t,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[algoritmo,[a,o,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estructura,[e,s,t,r,u,c,t,u,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,u,u,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estructura,[e,u,u,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[diseno,[d,i,s,e,n,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[diseno,[i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[conocimiento,[c,o,n,o,c,i,m,i,e,n,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o,i,i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[conocimiento,[o,o,i,i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[analisis,[a,n,a,l,i,s,i,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[analisis,[a,a,i,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[software,[s,o,f,t,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[software,[o,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hardware,[h,a,r,d,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hardware,[a,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[redes,[r,e,d,e,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[redes,[e,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[programacion,[p,r,o,g,r,a,m,a,c,i,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,a,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[programacion,[o,a,a,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[desarrollo,[d,e,s,a,r,r,o,l,l,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,a,o,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[desarrollo,[e,a,o,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[javascript,[j,a,v,a,s,c,r,i,p,t]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[javascript,[a,a,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[python,[p,y,t,h,o,n]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[python,[o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[inteligencia,[i,n,t,e,l,i,g,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[inteligencia,[i,e,i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[artificial,[a,r,t,i,f,i,c,i,a,l]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,i,i,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[artificial,[a,i,i,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[ciencia,[c,i,e,n,c,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[ciencia,[i,e,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[tecnologia,[t,e,c,n,o,l,o,g,i,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,o,o,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[tecnologia,[e,o,o,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[informatica,[i,n,f,o,r,m,a,t,i,c,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,o,a,i,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[informatica,[i,o,a,i,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[computadora,[c,o,m,p,u,t,a,d,o,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,u,a,o,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[computadora,[o,u,a,o,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[algoritmo,[a,l,g,o,r,i,t,m,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o,i,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[algoritmo,[a,o,i,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[estructura,[e,s,t,r,u,c,t,u,r,a]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,u,u,a]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[estructura,[e,u,u,a]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[diseno,[d,i,s,e,n,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[diseno,[i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[conocimiento,[c,o,n,o,c,i,m,i,e,n,t,o]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,o,i,i,e,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[conocimiento,[o,o,i,i,e,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[base,[b,a,s,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[base,[a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[datos,[d,a,t,o,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,o]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[datos,[a,o]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[analisis,[a,n,a,l,i,s,i,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,i,i]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[analisis,[a,a,i,i]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[software,[s,o,f,t,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [o,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[software,[o,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[hardware,[h,a,r,d,w,a,r,e]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [a,a,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[hardware,[a,a,e]]
+--------------------------
+DEBUG: Lista de caracteres de la palabra ~w: ~w-[redes,[r,e,d,e,s]]
+Caracteres seleccionados: - [a,e,i,o,u]
+Caracteres comunes: - [e,e]
+DEBUG: Palabra: ~w, Caracteres comunes: ~w-[redes,[e,e]]
+--------------------------
+DEBUG: Palabras filtradas:
+[algoritmo,analisis,artificial,base,casa,ciencia,como,computadora,conocimiento,datos,desarrollo,diseno,estas,estructura,gato,hardware,hola,informatica,inteligencia,javascript,jugando,perro,programacion,prolog,python,redes,software,statica,tecnologia,web]
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[algoritmo,9,4]
+Resultado filtrado: - _5804
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[analisis,8,4]
+Resultado filtrado: - _5804
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[artificial,10,4]
+Resultado filtrado: - _5804
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[base,4,4]
+Resultado filtrado: - _5944
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[casa,4,4]
+Resultado filtrado: - _5994
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[ciencia,7,4]
+Resultado filtrado: - _5994
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[como,4,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[computadora,11,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[conocimiento,12,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[datos,5,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[desarrollo,10,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[diseno,6,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[estas,5,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[estructura,10,4]
+Resultado filtrado: - _6088
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[gato,4,4]
+Resultado filtrado: - _6446
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[hardware,8,4]
+Resultado filtrado: - _6446
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[hola,4,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[informatica,11,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[inteligencia,12,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[javascript,10,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[jugando,7,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[perro,5,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[programacion,12,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[prolog,6,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[python,6,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[redes,5,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[software,8,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[statica,7,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[tecnologia,10,4]
+Resultado filtrado: - _6540
+--------------------------
+DEBUG: Palabra: ~w, Longitud actual: ~w, Longitud deseada: ~w-[web,3,4]
+Resultado filtrado: - _6540
+--------------------------
