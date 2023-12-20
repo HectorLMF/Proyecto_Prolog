@@ -4,7 +4,7 @@
 :- use_module(library(http/thread_httpd)).
 :- use_module(library(http/http_dispatch)).
 :- use_module(library(http/http_json)).
-:- use_module(library(http/http_cors)). % Agregado para habilitar CORS
+%:- use_module(library(http/http_cors)). % Agregado para habilitar CORS
 :- use_module(library(settings)).
 :- use_module(library(lists)).
 
@@ -17,7 +17,7 @@ diccionario(['hola', 'como', 'estas', 'perro', 'gato', 'casa', 'jugando', 'prolo
 % Parámetros: Request (solicitud HTTP)
 % Descripción: Este manejador procesa la solicitud HTTP en la ruta /consultar, filtrando palabras según los parámetros recibidos y respondiendo con la lista de palabras filtradas.
 :- http_handler(root(consultar), consultar_handler, [prefix]). % Agregado [prefix] para manejar CORS
-:- http_cors_enable. % Agregado para habilitar CORS
+%:- http_cors_enable. % Agregado para habilitar CORS
 
 % Configuración de registro
 % Parámetros: Ninguno
