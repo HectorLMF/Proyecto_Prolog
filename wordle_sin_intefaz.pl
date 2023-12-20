@@ -30,8 +30,7 @@ compararPalabras(PalabraUsuario, PalabraAleatoria, ArrayComun) :-
     writeln("Comparando palabras:"),
     writeln(PalabraUsuario = PalabraAleatoria),
     generarArrayComun(PalabraUsuario, PalabraAleatoria, ArrayComun),
-    PalabraUsuario == PalabraAleatoria,
-    writeln('Diccionario actualizado después de la purga: '), writeln(DiccionarioPurgado).
+    PalabraUsuario == PalabraAleatoria.
 
 % Generar un array con los caracteres comunes entre dos palabras
 % Parámetros: PalabraUsuario (palabra introducida por el usuario), PalabraAleatoria (palabra elegida aleatoriamente), ArrayComun (array de caracteres comunes)
